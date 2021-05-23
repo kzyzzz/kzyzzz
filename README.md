@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kzyzzz
 - 👀 I’m interested in IOT, programming and music.
 - 🌱 Actively learning to became full-stack web developer.
-- 📫 If you are looking to reach me feel free to concact @kzyzzz
+- 📫 If you are looking to reach me feel free to concact telegram@kzyzzz
 
 <!---
 kzyzzz/kzyzzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
